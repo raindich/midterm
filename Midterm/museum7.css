@@ -1,0 +1,100 @@
+body{
+  margin: 0;
+  padding: 0;
+
+}
+
+.navbar {
+    background-color: #FF473A;
+  
+    }
+
+
+h3{
+    width: 72px;
+height: 18px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 12px;
+display: flex;
+align-items: center;
+color: #979797;    }
+
+
+h2{
+margin-left: 5px;
+font-size: 18px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+line-height: 25px;
+
+color: #FF473A;
+
+}
+.submiit{
+	text-align: center;
+	margin:0 auto;
+	width: 145;
+background-color: #f44336;
+color: #FFFFFF;
+
+
+}
+h4{
+	color: #FF473A
+  margin-left: 5;
+}
+
+
+.btn1{
+
+	color: #FFFFFF;
+}
+.carousel{
+  margin-top: 50px;
+}
+.carousel-inner{
+  height: 100px;
+}
+.carousel-caption{
+  color: #000000;
+  top: 50%;
+}
+.carousel-control-prev{
+  background: grey;
+  opacity: 10%; 
+}
+.column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats  <h1>Adults</h1> <h1 style="position: absolute;right: 8px; margin-right: auto; opacity: 50%;">+ 0 -</h1>
+<br>
+<h1>Seniors</h1> <h1 style="position: absolute;right: 8px; margin-right: auto; opacity: 50%;">+ 0 -</h1>
+<br>
+<h1>Students</h1> <h1 style="position: absolute;right: 8px; margin-right: auto; opacity: 50%;">+ 0 -</h1>  after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+ .picture1 {
+ 
+
+background: url(fruit.png);
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+ background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+height: 500px;
+    }
+
+

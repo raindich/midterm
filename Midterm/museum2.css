@@ -1,0 +1,117 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+    background-color: #FF473A;
+  
+    }
+
+    .picture1 {
+ 
+
+background: url(picture.jpg);
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+ background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+height: 500px;
+    }
+    
+    h3{
+    width: 72px;
+height: 18px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 12px;
+display: flex;
+align-items: center;
+
+color: #979797;    }
+h1{
+	width: 140px;
+height: 84px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+color: #000000;
+
+}
+h2{
+	width: 253px;
+height: 36px;
+
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+display: flex;
+align-items: center;
+
+color: #FF473A;
+
+}
+.submiit{
+	
+	margin:0 auto;
+	width: 145;
+background-color: #f44336;
+color: #FFFFFF;
+
+
+}
+h4{
+	color: #FF473A
+}
+
+	.date1{
+position: absolute;
+font-size: 18px;
+line-height: 22px;
+
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+
+
+display: flex;
+
+
+}
+.date2{
+position: absolute ;
+width: 117px;
+height: 35px;
+right: -20px;
+top: 780px;
+
+
+
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+display: flex;
+
+}
+.btn1{
+
+	color: #FFFFFF;
+}
